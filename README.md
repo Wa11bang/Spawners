@@ -2,19 +2,19 @@
 Mob Spawners Plugin for Minecraft Bukkit/Spigot/Paper 1.16.1
 
 
-Commands:
+### Commands:
 
-Reload Configuration
+#### Reload Configuration
 - /spawners reload
 
-View Disabled Mob Entity Types
+#### View Disabled Mob Entity Types
 - /spawners disabled
 
-Give Player Mob Spawner with Entity Type
+#### Give Player Mob Spawner with Entity Type
 - /spawners give [entity_type]
 
-Add Mob Entity Type to Disabled
+#### Add Mob Entity Type to Disabled
 - /spawners add [entity_type]
 
-Remove Mob Entity Type from Disabled
+#### Remove Mob Entity Type from Disabled
 - /spawners remove [entity_type]
